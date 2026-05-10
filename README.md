@@ -15,7 +15,9 @@
 7. Commit and push to GitHub
 
 ## Issues I Ran Into
-Honestly, I've already been vibe coding on a few tools: building marketing strategy plans, researching industries, and allocating marketing budgets from a brief. So I had Cursor set up from the very beginning.
+Earlier this year, I started exploring vibe coding and built a few tools on my own through trial and error. I'm still far from being a strong coder, but I show up and learn something new every day. That's why Cursor was already part of my setup from the start. 
+
+So far I've used it to vibe code a few tools: building marketing strategy plans, researching industries, and generating budget allocations straight from a client brief.
 
 But when I run into code-related issues, I handle them in two ways:
 - First, I screenshot the error or the step I'm stuck on and ask AI to help me work through it.
