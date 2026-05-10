@@ -12,7 +12,7 @@
 4. Created a public GitHub repository
 5. Opened the repository in Cursor
 6. Created and edited this README.md
-7. Commit and push to GitHub
+7. Committed and pushed the README to GitHub.
 
 ## Issues I Ran Into
 Earlier this year, I started exploring vibe coding and built a few tools on my own through trial and error. I'm still far from being a strong coder, but I show up and learn something new every day. That's why Cursor was already part of my setup from the start. 
