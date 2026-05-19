@@ -26,19 +26,27 @@ What works instead: collaborative messaging workshops with reps + marketing; sta
 
 ---
 
-## Post 2: Cold email subject lines (webinar promo)
+## Post 2: Cold email open rates & engagement metrics
 
-**Link:** https://www.linkedin.com/posts/jasondbay (see YouTube: gLE5-_SDOCo for full tactical breakdown)
+**Link:** https://www.linkedin.com/posts/jasondbay_are-cold-email-open-rates-basically-a-useless-activity-7252650811451670529-hRLW
 
-**Date:** Feb 2024
+**Date:** ~2024 (6mo ago at collection)
 
-**Topic:** Subject line tactics for 40–50%+ open rates
+**Topic:** Whether open rates still matter; how to track outbound properly
 
-**Content (summary):**
+**Content:**
 
-Promotes tactics from Outbound Squad research: keep subject lines ≤5 words, "boringly obvious," avoid questions/numbers/punctuation; personalization is wasted if the email is never opened.
+Jason argues open rates aren't useless but are overemphasized. Spam filters and tracking pixels distort the number—but multiple opens on one email is a real signal to invest more effort on that account.
+
+Track outbound in three buckets:
+- **Effort** — calls, emails, social touches
+- **Efficiency** — pick-up %, open %, reply %
+- **Effectiveness** — reply → meeting booked, stage progression
+
+Related subject-line tactics (YouTube/webinars): ≤5 words, boringly obvious, avoid questions/punctuation—see `youtube-transcripts/jason-bay-cold-email-subject-lines.md`.
 
 **Key Insights:**
 
-- Short, vague, informal subject lines often outperform clever hooks
-- Open rate is the gate before reply rate—optimize subject before body
+- Opens are a signal, not the only metric—pair with replies and meetings booked
+- High open count on one email = prioritize that prospect/account
+- Don't optimize subject lines in isolation from body, CTA, and follow-up sequence

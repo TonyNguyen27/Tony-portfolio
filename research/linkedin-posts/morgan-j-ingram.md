@@ -26,19 +26,28 @@ Challenge: 5 videos/day × 20 days = 100 manual touches before scaling with AI.
 
 ---
 
-## Post 2: LinkedIn messaging framework ($120k)
+## Post 2: Green Lantern cadence (33% response rate)
 
-**Link:** https://www.youtube.com/watch?v=qktFZmgMJ3U (companion to LinkedIn content)
+**Link:** https://www.linkedin.com/posts/morganjingramamp_my-linkedin-cadence-has-a-33-response-rate-activity-7245174862036492288-Ki-2
 
-**Date:** 2024–2025
+**Date:** ~2024 (1y ago at collection)
 
-**Topic:** Multi-modal LinkedIn outreach (video + voice + text)
+**Topic:** 5-touch LinkedIn sequence with video, voice, and humor
 
-**Content (summary):**
+**Content:**
 
-YouTube deep-dive on messaging structure that drove $120k in pipeline—personalization beyond "{firstName}", pattern interrupts, and authentic research signals.
+Morgan's "Green Lantern Cadence" — 33% response rate:
+
+- **Day 1:** Blank LinkedIn connection request
+- **Day 2:** Comment on their post OR a post they liked
+- **Day 4:** Video, voice note, or personalized note
+- **Day 6:** Ask for feedback ("Any feedback on my video?")
+- **Day 9:** Funny GIF
+
+Goal: diversify touches, break through noise, make pipeline generation fun. Non-responders often reply to the feedback ask or GIF.
 
 **Key Insights:**
 
-- LinkedIn outbound is a craft skill, not a template download
-- Combine modalities (video/voice/text) after manual iteration proves what resonates
+- Multi-modal LinkedIn beats single-channel template blasts
+- Low-friction touches (comment, GIF) can re-engage cold threads
+- A/B test cadence by role (AE vs. sales leader)—same principles, different pacing

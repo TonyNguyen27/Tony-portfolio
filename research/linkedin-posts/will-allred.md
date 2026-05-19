@@ -24,19 +24,22 @@ Will shares Lavender's prospecting approach: LinkedIn + Apollo for data, Lavende
 
 ---
 
-## Post 2: Cold email on Outbound Squad podcast
+## Post 2: Reps want coaching, not automation
 
-**Link:** https://www.outboundsquad.com/podcast/will-allred-2
+**Link:** https://www.linkedin.com/posts/williamallred_hey-sales-leaders-your-sales-reps-dont-activity-7203372178979897344-qG7z
 
-**Date:** Podcast episode (companion material in `/research/other/`)
+**Date:** ~2024 (1y ago at collection)
 
-**Topic:** Cold email breakdowns and data-driven frameworks
+**Topic:** Personalized 1:1 emails vs. scaled spray
 
-**Content (summary):**
+**Content:**
 
-Discusses frameworks for first-line personalization, CTA design for SDRs, and using data to iterate messaging—not generic "personalization at scale."
+Will (Lavender co-founder): "Your sales reps don't want to be automated… they want to be coached."
+
+Data shows most replies come from the minority of emails sent—the 80%+ that are personalized one-offs, not mass "scaled" attempts. Leaders should teach reps to grow thoughtfully in the role.
 
 **Key Insights:**
 
-- Treat cold email as a coached skill with measurable inputs (opens, replies, meetings)
-- Product builders who sell to sellers should run their own outbound experiments
+- Reply rate lives in high-effort, personalized sends—not volume automation
+- Email coaching beats template factories for SDR development
+- Lavender's GTM philosophy: quality + in-flow coaching aligns with Post 1's AB approach

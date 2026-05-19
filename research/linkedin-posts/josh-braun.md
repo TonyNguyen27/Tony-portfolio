@@ -28,19 +28,26 @@ Body frames deliverability problem for Lainey's team, names ACME/BETA social pro
 
 ---
 
-## Post 2: Radically honest selling (philosophy)
+## Post 2: Psychology of a good cold email (BLUE/GREEN/YELLOW/ORANGE/PINK)
 
-**Link:** https://joshbraun.com/
+**Link:** https://www.linkedin.com/posts/josh-braun_heres-the-psychology-of-a-good-cold-email-activity-7318014648652292096-QDIl
 
-**Date:** Ongoing brand positioning
+**Date:** ~2024 (1y ago at collection)
 
-**Topic:** Sales psychology without manipulation
+**Topic:** Color-coded framework for cold email psychology
 
-**Content (summary):**
+**Content:**
 
-Josh's brand centers on making prospects feel safe telling the truth—no pressure, no fake urgency. Ties to his YouTube "Let's Write a Good Cold Email" and Badass B2B Growth Guide.
+Josh breaks cold email into five psychological moves:
+
+- **BLUE** — Why you vs. anyone else? Tie to a specific event/circumstance.
+- **GREEN** — What's meaningfully different? Cost of inaction vs. status quo.
+- **YELLOW** — "You're not alone" (social proof from peers/neighbors).
+- **ORANGE** — Empathy for hesitation to switch; label negatives to defuse them.
+- **PINK** — No pressure; gentle ask "like a neighbor over the fence."
 
 **Key Insights:**
 
-- Cold outreach succeeds when the prospect doesn't feel "sold"
-- Copywriting starts from understanding the prospect's daily pain, not your feature list
+- Cold outreach succeeds when prospects feel understood, not sold
+- Labeling objections before they voice them reduces defensiveness
+- Framework complements Post 1's example email—structure + psychology
