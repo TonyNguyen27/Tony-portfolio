@@ -1,41 +1,56 @@
 # Patrick Dang - LinkedIn Research
 
-Collected: 2026-05-19 | Profile: https://www.linkedin.com/in/patrickdang
+Collected: 2026-05-19 (updated 2026-05-19) | Profile: https://www.linkedin.com/in/patrickdangofficial/
+
+**Source:** Public LinkedIn posts only (`patrickdangofficial`). YouTube content is in `research/youtube-transcripts/patrick-dang-cold-email-tips.md`.
 
 ---
 
-## Post 1: Cold email starts with the offer
+## Post 1: Qualify prospects with the SIMPLE method
 
-**Link:** https://www.youtube.com/watch?v=W-znS2Tkl8o (primary source; LinkedIn mirrors YouTube themes)
+**Link:** https://www.linkedin.com/posts/patrickdangofficial_how-to-tell-if-a-prospect-will-buy-or-not-activity-7226217030725644288-w13J
 
-**Date:** 2023–2024
+**Date:** ~2024 (1y ago at collection)
 
-**Topic:** Offer-market fit before copy optimization
+**Topic:** Stop chasing unqualified outbound targets
 
-**Content (summary):**
+**Content:**
 
-Patrick argues most cold email failure is a weak offer—not weak copy. If the product isn't competitive vs. alternatives, no subject line saves you. Fix the offer or change what you sell before scaling outreach.
+Patrick asks why reps waste months on leads that never close. On the first call, qualify with **SIMPLE**:
+
+- **Budget** — Can they afford your offer?
+- **Authority** — Do they have decision power or need boss approval?
+- **Need** — Is your solution a must-have or nice-to-have?
+- **Time** — When will they buy (month, six months, year)—or are you guessing?
+
+Sell to people who can actually buy; don't brute-force deals with poor fit.
 
 **Key Insights:**
 
-- Copy tactics are downstream of offer clarity
-- B2B SaaS sellers should validate ICP + value prop before sending volume
+- Outbound list quality matters less if you disqualify fast on the first conversation
+- BANT-style qualification prevents pipeline bloat from cold outreach
+- Applies after cold email/LinkedIn gets a meeting—before investing more touches
 
 ---
 
-## Post 2: Cold calling tonality (70/30 rule)
+## Post 2: Prevent prospects from ghosting
 
-**Link:** https://www.youtube.com/watch?v=gwJ-hS2QcvA
+**Link:** https://www.linkedin.com/posts/patrickdangofficial_the-best-way-to-prevent-prospects-from-ghosting-activity-7226391535204904961-3wq6
 
-**Date:** 2023
+**Date:** ~2024 (1y ago at collection)
 
-**Topic:** Voice and tone in cold calls
+**Topic:** Surface hidden objections before the deal dies silently
 
-**Content (summary):**
+**Content:**
 
-~70% of whether prospects engage is how you sound; ~30% is words. Recommends calm, relaxed, assertive delivery—avoid aggressive or rushed pacing. First five seconds are visual + vocal impression.
+After a strong sales presentation, prospects often sound excited but ghost. Patrick's fix—say something like:
+
+"We sound like a great fit and you want to do this. Sometimes people get excited but don't move forward—or ghost. **Is there any reason you wouldn't work with us?**"
+
+That prompts hidden objections ("we love it, but…") so you can handle them instead of losing the deal with no feedback.
 
 **Key Insights:**
 
-- Multi-channel outbound includes phone—delivery matters as much as script
-- Ex-Salesforce AE teaching from field experience, not theory-only
+- Critical for outbound-sourced meetings: ghosting often means unspoken objections, not lack of interest
+- Ask directly; if you don't, you lose the deal anyway without learning why
+- Pairs with follow-up discipline after cold outreach converts to calls

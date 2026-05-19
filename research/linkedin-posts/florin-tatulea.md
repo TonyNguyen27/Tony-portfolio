@@ -1,41 +1,53 @@
 # Florin Tatulea - LinkedIn Research
 
-Collected: 2026-05-19 | Profile: https://www.linkedin.com/in/florintatulea
+Collected: 2026-05-19 (updated 2026-05-19) | Profile: https://www.linkedin.com/in/florintatulea
+
+**Source:** Public LinkedIn posts only. Substack and YouTube are listed in `sources.md` and `youtube-transcripts/`.
 
 ---
 
-## Post 1: Prospecting from the Trenches (newsletter)
+## Post 1: Fortune 500 cold email framework
 
-**Link:** https://salesflo.substack.com/
+**Link:** https://www.linkedin.com/posts/florintatulea_this-cold-email-led-to-a-deal-with-a-fortune-activity-7192171133041786880-QE8M
 
-**Date:** Ongoing (weekly)
+**Date:** ~2024 (2y ago at collection)
 
-**Topic:** Unedited prospecting breakdowns from the field
+**Topic:** 5-part cold email structure that closed enterprise
 
-**Content (summary):**
+**Content:**
 
-Florin publishes "watch me build this cold email" and enterprise prospecting videos with real sequences, open/reply rates, and research steps—first sales hire at Loopio (65× revenue growth). GTM Engineer in Residence at ZoomInfo; trains teams at Shopify, Zendesk, etc.
+Florin shares a cold email that led to a Fortune 500 deal. Structure:
+
+1. Relevant observation  
+2. Thought-provoking question  
+3. Problem with current state  
+4. Future state  
+5. Interest-based CTA with promise of social proof  
+
+"Outbound still works if you spend the time to get it right."
 
 **Key Insights:**
 
-- Transparency beats generic "best practices" posts—show the actual email and metrics
-- Enterprise prospecting requires different research depth than SMB spray
+- Enterprise outbound rewards structured narrative, not feature dumps
+- Interest-based CTAs (vs. hard "book a call") can work at F500 if research is deep
+- Practitioner proof: real email → real deal, not theory
 
 ---
 
-## Post 2: Cold Email Conversion Machine (course positioning)
+## Post 2: Outbound morning routine (#sales #outbound)
 
-**Link:** https://www.pclub.io/courses/the-cold-email-conversion-machine
+**Link:** https://www.linkedin.com/posts/florintatulea_sales-morningroutine-outbound-activity-7310307104097976320-3Mc1
 
-**Date:** 2023+
+**Date:** ~2025 (1y ago at collection)
 
-**Topic:** Sequencing and copy for B2B outbound
+**Topic:** Daily outbound habits and avoiding TAM spam
 
-**Content (summary):**
+**Content:**
 
-Course covers outbound email copy, sequencing, and conversion—aligned with pclub interview (YouTube aaFjjDBBEzk). Emphasizes cold email as essential when inbound pipeline tightens.
+Florin jokes about "Spam Cannon O'Clock"—blasting the TAM with cold email. Promotes a Sell Better live session with Will Aitken on avoiding classic "SPAM THE TAM" mistakes in 2025, with real examples and reply-rate tactics. `#sales` `#morningroutine` `#outbound`
 
 **Key Insights:**
 
-- Practitioners who rose SDR → director teach sequencing as a system, not one-off templates
-- Substack + YouTube + LinkedIn form a consistent "from the trenches" brand
+- Precision beats volume; assigning 1,000 accounts to a campaign ≠ outbound
+- Top operators call out TAM-wide spray as still the default failure mode in 2025
+- Live teardowns and real examples over generic template advice

@@ -9,6 +9,7 @@
 
 ## LinkedIn posts
 
+- **Folder:** `research/linkedin-posts/` — **LinkedIn only.** Do not put YouTube, Substack, podcast, or course links here; those belong in `sources.md`, `youtube-transcripts/`, or `other/`.
 - **Method:** Manual collection from public LinkedIn post URLs (guest-visible text)
 - **Not used:** Authenticated scraping APIs (ToS risk; no credentials in repo)
 - **Fields captured:** URL, approximate date, topic, summary, key insights
